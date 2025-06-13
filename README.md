@@ -53,12 +53,6 @@ localStorage.setItem("date", dateOfBirth.getDate());
 
 ---
 
-## 📸 Screenshots
-
-> Add a screenshot showing the live timer UI (optional)
-
----
-
 ## 📄 License
 
 MIT License. Free to use and modify.
